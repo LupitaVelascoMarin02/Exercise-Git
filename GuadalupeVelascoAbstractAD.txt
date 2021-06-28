@@ -1,6 +1,7 @@
 First Change in this file 
 Architecture and Design
 SOLID 
+Creating a new branch
 SOLID stands for:
 •	S - Single-responsiblity Principle
 •	O - Open-closed Principle
