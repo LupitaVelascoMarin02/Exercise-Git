@@ -2,6 +2,7 @@ First Change in this file
 Architecture and Design
 SOLID 
 SOLID stands for:
+Descriptions of each one
 •	S - Single-responsiblity Principle
 •	O - Open-closed Principle
 •	L - Liskov Substitution Principle
