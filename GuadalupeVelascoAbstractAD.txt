@@ -1,6 +1,9 @@
+GIT EXERCISE USING THIS FILE
+
 First Change in this file 
 Architecture and Design
 SOLID 
+Creating a new branch
 SOLID stands for:
 Descriptions of each one
 •	S - Single-responsiblity Principle
